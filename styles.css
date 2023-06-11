@@ -1,8 +1,8 @@
-/*
-
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
-
-If your plugin does not need CSS, delete this file.
-
-*/
+.nav-file-title {
+	display: flex;
+	flex-direction: column;
+}
+.nav-file-preview {
+	color: var(--text-muted);
+	margin-top: 0.25rem;
+}
